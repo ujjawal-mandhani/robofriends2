@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ujjawal-mandhani/robofriends2/static/css/main.727c4bcc.chunk.css",
+    "main.js": "/ujjawal-mandhani/robofriends2/static/js/main.fb5c3eb5.chunk.js",
+    "main.js.map": "/ujjawal-mandhani/robofriends2/static/js/main.fb5c3eb5.chunk.js.map",
+    "runtime-main.js": "/ujjawal-mandhani/robofriends2/static/js/runtime-main.87d91a6a.js",
+    "runtime-main.js.map": "/ujjawal-mandhani/robofriends2/static/js/runtime-main.87d91a6a.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/ujjawal-mandhani/robofriends2/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.5f42966a.chunk.js": "/ujjawal-mandhani/robofriends2/static/js/2.5f42966a.chunk.js",
+    "static/js/2.5f42966a.chunk.js.map": "/ujjawal-mandhani/robofriends2/static/js/2.5f42966a.chunk.js.map",
+    "static/js/3.91a0c869.chunk.js": "/ujjawal-mandhani/robofriends2/static/js/3.91a0c869.chunk.js",
+    "static/js/3.91a0c869.chunk.js.map": "/ujjawal-mandhani/robofriends2/static/js/3.91a0c869.chunk.js.map",
+    "index.html": "/ujjawal-mandhani/robofriends2/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/ujjawal-mandhani/robofriends2/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.727c4bcc.chunk.css.map": "/ujjawal-mandhani/robofriends2/static/css/main.727c4bcc.chunk.css.map",
+    "static/js/2.5f42966a.chunk.js.LICENSE.txt": "/ujjawal-mandhani/robofriends2/static/js/2.5f42966a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ujjawal-mandhani/robofriends2/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87d91a6a.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.5f42966a.chunk.js",
+    "static/css/main.727c4bcc.chunk.css",
+    "static/js/main.fb5c3eb5.chunk.js"
+  ]
+}
